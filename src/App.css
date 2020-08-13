@@ -36,3 +36,19 @@
     transform: rotate(360deg);
   }
 }
+
+.top-style {
+  margin-top: 2%;
+}
+.btn {
+  width: 200px;
+}
+.table {
+  margin-top: 2%;
+}
+.text-box-container {
+  margin-left: 20%;
+}
+h3 {
+  margin-top: 1%;
+}
